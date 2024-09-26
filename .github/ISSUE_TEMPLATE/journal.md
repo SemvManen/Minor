@@ -11,7 +11,7 @@ assignees: ''
 
 # Wat heb ik gedaan?
 
-#Wat wil ik volgende week gaan doen?
+# Wat wil ik volgende week gaan doen?
 
 # Sketches/Drawings/Screenshots
 
